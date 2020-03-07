@@ -15,7 +15,7 @@ Currently, an app for this market does not exist.
 
 ![Screenshot](public/assets/images/seacruiser.jpg)
 
-[Sea Cruiser Chat App](http://boiling-forest-49975.herokuapp.com//)
+[Sea Cruiser Chat App](http://boiling-forest-49975.herokuapp.com/)
 
 # Usage
 1. Clone first repo (front-end):
